@@ -1,0 +1,4 @@
+p:nth-last-child(1) {
+    color: red;
+    background-color: black;
+}
